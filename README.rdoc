@@ -1,28 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample application that shows Nested Resources using Active Admin
 
-Things you may want to cover:
+Install it as usual:
 
-* Ruby version
+* Get the souce code
 
-* System dependencies
+* Run bundle install
 
-* Configuration
+* Migrate the database
 
-* Database creation
+* Run the server
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Explore the code and experiment.
