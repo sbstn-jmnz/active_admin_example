@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  composer: MyString
+  time: 2015-04-18 13:33:32
+  album_id: 
+
+two:
+  title: MyString
+  composer: MyString
+  time: 2015-04-18 13:33:32
+  album_id: 
