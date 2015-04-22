@@ -11,7 +11,7 @@ permit_params :name, :year
 		      link_to album.year, admin_artist_album_path(album.artist,album) 
 			  end
 		      column "Canciones", :canciones_del_album do |album|
-		      link_to album.songs.count, admin_album_songs_path(album) 
+		      link_to album.songs.count, admin_artist_album_songs_path(album.artist,album) 
 			  end
 		    actions
 		end
